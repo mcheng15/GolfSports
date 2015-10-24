@@ -1,0 +1,348 @@
+WARNING:root:URL %s has incorrect venue format | IE %s
+WARNING:root:URL %s has multiple venus
+WARNING:root:URL %s has multiple venus
+WARNING:root:URL %s has multiple venus
+WARNING:root:URL %s has incorrect venue format | IE %s
+WARNING:root:URL %s has incorrect venue format | IE %s
+WARNING:root:URL %s has multiple venus
+WARNING:root:URL %s has multiple venus
+WARNING:root:URL %s has multiple venus
+WARNING:root:URL %s has incorrect venue format | IE %s
+WARNING:root:URL %s has incorrect venue format | IE %s
+WARNING:root:URL %s has multiple venus
+WARNING:root:URL %s has incorrect venue format | IE %s
+WARNING:root:URL %s has incorrect venue format | IE %s
+WARNING:root:URL %s has incorrect venue format | IE %s
+WARNING:root:URL %s has incorrect venue format | IE %s
+WARNING:root:URL %s has multiple venus
+WARNING:root:URL %s has multiple venus
+WARNING:root:URL %s has incorrect venue format | IE %s
+WARNING:root:URL %s has incorrect venue format | IE %s
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=5 has incorrect venue format | IE TPC Scottsdale - Scottsdale, AZ
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=6 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=7 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=8 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=9 has incorrect venue format | IE Riviera CC - Pacific Palisades, CA
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=10 has incorrect venue format | IE Trump National Doral - Miami, FL
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=5 has incorrect venue format | IE TPC Scottsdale - Scottsdale, AZ
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=6 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=7 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=8 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=9 has incorrect venue format | IE Riviera CC - Pacific Palisades, CA
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=10 has incorrect venue format | IE Trump National Doral - Miami, FL
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=11 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=12 has incorrect venue format | IE Bay Hill Club &amp; Lodge - Orlando, FL
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=13 has incorrect venue format | IE TPC Sawgrass - Ponte Vedra Beach, FL
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=15 has incorrect venue format | IE Augusta National GC - Augusta, GA
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=16 has incorrect venue format | IE Harbour Town GL - Hilton Head, SC
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=17 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=20 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=21 has incorrect venue format | IE Colonial CC - Ft. Worth, TX
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=23 has incorrect venue format | IE Muirfield Village GC - Dublin, OH
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=24 has incorrect venue format | IE TPC Southwind - Memphis, TN
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=27 has incorrect venue format | IE TPC River Highlands - Cromwell, CT
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=28 has incorrect venue format | IE Cog Hill G&CC; - Lemont, IL
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=29 has incorrect venue format | IE Brown Deer Park GC - Milwaukee, WI
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=30 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=32 has incorrect venue format | IE TPC Deere Run - Silvis, IL
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=34 has incorrect venue format | IE Warwick Hills G&CC; - Grand Blanc, MI
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=35 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=36 has incorrect venue format | IE Firestone CC (South) - Akron, OH
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=37 has incorrect venue format | IE Montreux G&CC; - Reno, NV
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=38 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=42 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=43 has incorrect venue format | IE LaCantera GC - San Antonio, TX
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=44 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=45 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=46 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=47 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=48 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=49 has incorrect venue format | IE Annandale GC - Madison, MS
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=50 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=51 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=52 has incorrect venue format | IE Montreux G&CC; - Reno, NV
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=53 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=54 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=55 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=56 has multiple venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=57 has incorrect venue format | IE Innisbrook Resort (Copperhead) - Palm Harbor, FL
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=58 has incorrect venue format | IE LaCantera GC - San Antonio, TX
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=6 has multiple 3 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=7 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=8 has multiple 4 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=11 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=17 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=20 has multiple 2 venus
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=30 has 0 venus
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=35 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=38 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=42 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=44 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=45 has multiple 3 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=46 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=47 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=48 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=50 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=51 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=53 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=54 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=55 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=56 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=59 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=60 has multiple 3 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=61 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=62 has 0 venus
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=67 has multiple 3 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=69 has multiple 3 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=70 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=75 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=78 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=84 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=89 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=94 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=99 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=106 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=108 has multiple 3 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=110 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=112 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=117 has multiple 4 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=118 has multiple 3 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=119 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=123 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=129 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=132 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=136 has 0 venus
+WARNING:root:ERROR 1: URL http://espn.go.com/golf/leaderboard?tournamentId=149 has multiple 4 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=151 has multiple 3 venus
+WARNING:root:ERROR 1: URL http://espn.go.com/golf/leaderboard?tournamentId=152 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=164 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=165 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=170 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=174 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=177 has 0 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=179 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=185 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=190 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=194 has multiple 3 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=198 has multiple 5 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=200 has multiple 3 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=201 has multiple 2 venus
+WARNING:root:ERROR 1: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 1: Skipped blank tournament
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=214 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=234 has multiple 2 venus
+WARNING:root:ERROR 0: URL http://espn.go.com/golf/leaderboard?tournamentId=236 has multiple 2 venus
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:Skipping blank html file
+WARNING:root:1980 - http://www.pgatour.com/stats/stat.448.1980.html
+WARNING:root:Multiple Theads found
+WARNING:root:1981 - http://www.pgatour.com/stats/stat.448.1981.html
+WARNING:root:Multiple Theads found
+WARNING:root:1982 - http://www.pgatour.com/stats/stat.448.1982.html
+WARNING:root:Multiple Theads found
+WARNING:root:1983 - http://www.pgatour.com/stats/stat.448.1983.html
+WARNING:root:Multiple Theads found
+WARNING:root:1984 - http://www.pgatour.com/stats/stat.448.1984.html
+WARNING:root:Multiple Theads found
+WARNING:root:1985 - http://www.pgatour.com/stats/stat.448.1985.html
+WARNING:root:Multiple Theads found
+WARNING:root:1986 - http://www.pgatour.com/stats/stat.448.1986.html
+WARNING:root:Multiple Theads found
+WARNING:root:1987 - http://www.pgatour.com/stats/stat.448.1987.html
+WARNING:root:Multiple Theads found
+WARNING:root:1988 - http://www.pgatour.com/stats/stat.448.1988.html
+WARNING:root:Multiple Theads found
+WARNING:root:1989 - http://www.pgatour.com/stats/stat.448.1989.html
+WARNING:root:Multiple Theads found
+WARNING:root:1990 - http://www.pgatour.com/stats/stat.448.1990.html
+WARNING:root:Multiple Theads found
+WARNING:root:1991 - http://www.pgatour.com/stats/stat.448.1991.html
+WARNING:root:Multiple Theads found
+WARNING:root:1992 - http://www.pgatour.com/stats/stat.448.1992.html
+WARNING:root:Multiple Theads found
+WARNING:root:1993 - http://www.pgatour.com/stats/stat.448.1993.html
+WARNING:root:Multiple Theads found
+WARNING:root:1994 - http://www.pgatour.com/stats/stat.448.1994.html
+WARNING:root:Multiple Theads found
+WARNING:root:1995 - http://www.pgatour.com/stats/stat.448.1995.html
+WARNING:root:Multiple Theads found
+WARNING:root:1996 - http://www.pgatour.com/stats/stat.448.1996.html
+WARNING:root:Multiple Theads found
+WARNING:root:1997 - http://www.pgatour.com/stats/stat.448.1997.html
+WARNING:root:Multiple Theads found
+WARNING:root:1998 - http://www.pgatour.com/stats/stat.448.1998.html
+WARNING:root:Multiple Theads found
+WARNING:root:1999 - http://www.pgatour.com/stats/stat.448.1999.html
+WARNING:root:Multiple Theads found
+WARNING:root:2000 - http://www.pgatour.com/stats/stat.448.2000.html
+WARNING:root:Multiple Theads found
+WARNING:root:2001 - http://www.pgatour.com/stats/stat.448.2001.html
+WARNING:root:Multiple Theads found
+WARNING:root:2002 - http://www.pgatour.com/stats/stat.448.2002.html
+WARNING:root:Multiple Theads found
+WARNING:root:2003 - http://www.pgatour.com/stats/stat.448.2003.html
+WARNING:root:Multiple Theads found
+WARNING:root:2004 - http://www.pgatour.com/stats/stat.448.2004.html
+WARNING:root:Multiple Theads found
+WARNING:root:2005 - http://www.pgatour.com/stats/stat.448.2005.html
+WARNING:root:Multiple Theads found
+WARNING:root:2006 - http://www.pgatour.com/stats/stat.448.2006.html
+WARNING:root:Multiple Theads found
+WARNING:root:2007 - http://www.pgatour.com/stats/stat.448.2007.html
+WARNING:root:Multiple Theads found
+WARNING:root:2008 - http://www.pgatour.com/stats/stat.448.2008.html
+WARNING:root:Multiple Theads found
+WARNING:root:2009 - http://www.pgatour.com/stats/stat.448.2009.html
+WARNING:root:Multiple Theads found
+WARNING:root:2010 - http://www.pgatour.com/stats/stat.448.2010.html
+WARNING:root:Multiple Theads found
+WARNING:root:2011 - http://www.pgatour.com/stats/stat.448.2011.html
+WARNING:root:Multiple Theads found
+WARNING:root:2012 - http://www.pgatour.com/stats/stat.448.2012.html
+WARNING:root:Multiple Theads found
+WARNING:root:2013 - http://www.pgatour.com/stats/stat.448.2013.html
+WARNING:root:Multiple Theads found
+WARNING:root:2014 - http://www.pgatour.com/stats/stat.448.2014.html
+WARNING:root:Multiple Theads found
+WARNING:root:2015 - http://www.pgatour.com/stats/stat.448.2015.html
+WARNING:root:Multiple Theads found
+WARNING:root:2010 - http://www.pgatour.com/stats/stat.448.2010.html
+WARNING:root:2011 - http://www.pgatour.com/stats/stat.448.2011.html
+WARNING:root:2012 - http://www.pgatour.com/stats/stat.448.2012.html
+WARNING:root:2013 - http://www.pgatour.com/stats/stat.448.2013.html
+WARNING:root:2014 - http://www.pgatour.com/stats/stat.448.2014.html
+WARNING:root:2015 - http://www.pgatour.com/stats/stat.448.2015.html
+WARNING:root:2010 - http://www.pgatour.com/stats/stat.448.2010.html
+WARNING:root:2011 - http://www.pgatour.com/stats/stat.448.2011.html
+WARNING:root:2012 - http://www.pgatour.com/stats/stat.448.2012.html
+WARNING:root:2013 - http://www.pgatour.com/stats/stat.448.2013.html
+WARNING:root:2014 - http://www.pgatour.com/stats/stat.448.2014.html
+WARNING:root:2015 - http://www.pgatour.com/stats/stat.448.2015.html
+WARNING:root:2010 - http://www.pgatour.com/stats/stat.447.2010.html
+WARNING:root:2011 - http://www.pgatour.com/stats/stat.447.2011.html
+WARNING:root:2012 - http://www.pgatour.com/stats/stat.447.2012.html
+WARNING:root:2013 - http://www.pgatour.com/stats/stat.447.2013.html
+WARNING:root:2014 - http://www.pgatour.com/stats/stat.447.2014.html
+WARNING:root:2015 - http://www.pgatour.com/stats/stat.447.2015.html
+WARNING:root:2010 - http://www.pgatour.com/stats/stat.448.2010.html
+WARNING:root:2010 - http://www.pgatour.com/stats/stat.448.2010.html
+WARNING:root:2011 - http://www.pgatour.com/stats/stat.448.2011.html
+WARNING:root:2012 - http://www.pgatour.com/stats/stat.448.2012.html
+WARNING:root:2013 - http://www.pgatour.com/stats/stat.448.2013.html
+WARNING:root:2014 - http://www.pgatour.com/stats/stat.448.2014.html
+WARNING:root:2015 - http://www.pgatour.com/stats/stat.448.2015.html
+WARNING:root:2010 - http://www.pgatour.com/stats/stat.447.2010.html
+WARNING:root:2011 - http://www.pgatour.com/stats/stat.447.2011.html
+WARNING:root:2012 - http://www.pgatour.com/stats/stat.447.2012.html
+WARNING:root:2013 - http://www.pgatour.com/stats/stat.447.2013.html
+WARNING:root:2014 - http://www.pgatour.com/stats/stat.447.2014.html
+WARNING:root:2015 - http://www.pgatour.com/stats/stat.447.2015.html
+WARNING:root:2010 - http://www.pgatour.com/stats/stat.448.2010.html
+WARNING:root:2011 - http://www.pgatour.com/stats/stat.448.2011.html
+WARNING:root:2012 - http://www.pgatour.com/stats/stat.448.2012.html
+WARNING:root:2013 - http://www.pgatour.com/stats/stat.448.2013.html
+WARNING:root:2014 - http://www.pgatour.com/stats/stat.448.2014.html
+WARNING:root:2015 - http://www.pgatour.com/stats/stat.448.2015.html
+WARNING:root:2010 - http://www.pgatour.com/stats/stat.447.2010.html
+WARNING:root:2011 - http://www.pgatour.com/stats/stat.447.2011.html
+WARNING:root:2012 - http://www.pgatour.com/stats/stat.447.2012.html
+WARNING:root:2013 - http://www.pgatour.com/stats/stat.447.2013.html
+WARNING:root:2014 - http://www.pgatour.com/stats/stat.447.2014.html
+WARNING:root:2015 - http://www.pgatour.com/stats/stat.447.2015.html
+WARNING:root:Date is None OR equal to latest tournament
+WARNING:root:Date is None OR equal to latest tournament
+WARNING:root:Date is None OR equal to latest tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 1: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 1: Skipped blank tournament
+WARNING:root:Date is None OR equal to latest tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 1: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 1: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:Date is None OR equal to latest tournament
+WARNING:root:Date is None OR equal to latest tournament
+WARNING:root:Date is None OR equal to latest tournament
+WARNING:root:Date is None OR equal to latest tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 1: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 1: Skipped blank tournament
+WARNING:root:ERROR 1: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 1: Skipped blank tournament
+WARNING:root:ERROR 1: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 1: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
+WARNING:root:ERROR 0: Skipped blank tournament
