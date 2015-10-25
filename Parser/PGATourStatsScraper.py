@@ -1,9 +1,10 @@
-﻿from BeautifulSoup import BeautifulSoup
-import urllib2
-import pandas as pd 
-import html5lib
-import locale 
+﻿import urllib2
+
+from BeautifulSoup import BeautifulSoup
+import pandas as pd
+
 import LoggerWrapper
+
 
 class PGATourStatsScraper:
     """Scrape stats from PGATour for all years"""

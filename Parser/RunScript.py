@@ -1,9 +1,11 @@
-from ESPNTournamentDataScraper import ESPNTournamentDataScraper as ESPNScraper
+import sys
+sys.path.append("Parser/")
+sys.path.append("")
+import ESPNTournamentDataScraper
 from PGAMultiScraper import PGAMultiScraper as PGAMS
-import pandas as pd 
 
 data_scraper = ESPNScraper()
-data_scraper.ParseAllTournaments(2500)
+data_scraper.ParseAllTournaments(10)
 
 list = [(448, 'Stat1'), (447, 'Stat2')]
 scrape = PGAMS()
