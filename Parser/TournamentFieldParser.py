@@ -3,9 +3,6 @@ sys.path.append("Infrastructure/")
 
 from TournamentClasses import Venue
 
-def Tournament_ParseDate(strDate):
-    return
-
 def Tournament_ParseVenue(htmlVenueList):
     venue_obj = Venue()
     for venue in htmlVenueList:
@@ -20,13 +17,13 @@ def Tournament_ParseCompetition(htmlCompetitionList):
         return [False, len(htmlCompetitionList)]
     return [True, htmlCompetitionList[0]['alt']]
 
-def Tournament_AddCompetitionToDF(competitionName, df):
+def Tournament_AddCompetitionToDF(competitionName, df, competitionColumnName):
     #adding competition level
     if("PGA Tour" in competitionName):
-        df.ix[:, 'Competition Level'] = "PGA"
+        df.ix[:, competitionColumnName] = "PGA"
     elif ("Web.com Tour" in competitionName):
-        df.ix[:, 'Competition Level'] = "Web.com"
-    elif ("Euro Tour" in competitionName):
-        df.ix[:, 'Competition Level'] = "Euro"
+        df.ix[:, competitionColumnName] = "Web.com"
+    elif ("European Tour" in competitionName):
+        df.ix[:, competitionColumnName] = "Euro"
     return df
 

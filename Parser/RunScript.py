@@ -1,6 +1,7 @@
 import sys
 sys.path.append("Parser/")
-sys.path.append("")
+import LoggingConstants
+
 import ESPNTournamentDataScraper
 from PGAMultiScraper import PGAMultiScraper as PGAMS
 

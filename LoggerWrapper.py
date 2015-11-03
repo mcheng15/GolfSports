@@ -1,21 +1,27 @@
-﻿import logging 
+﻿import logging
+import sys
 import os
+sys.path.append("Infrastructure/")
 
-LOG_FILE_NAME = "C:/logs/golf_log.txt"
+FORMAT = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+FileHandler = None
+StreamHandler = None
 
-class LoggerWrapper(object):
-    """LogWrapper"""
+def InitializeLogger(loggerName, fileName):
+    global FileHandler, StreamHandler
 
-    def __init__(self):
-        if(os.path.isfile(LOG_FILE_NAME)):
-            os.remove(LOG_FILE_NAME)
-        open(LOG_FILE_NAME, 'a').close()
-        logging.basicConfig(filename = 'C:/logs/golf_log.txt', level = logging.DEBUG)
-        
-    def LogWarningMessage(self, msg):
-         logging.warning(msg)
+    #create
+    log = logging.getLogger(loggerName)
+    log.setLevel(logging.DEBUG)
 
-    def LogErrorMessage(self, msg):
-        logging.error(msg);
+    stdOutHandler = logging.StreamHandler(sys.stdout)
+    stdOutHandler.setFormatter(FORMAT)
+    log.addHandler(stdOutHandler)
 
+    fileHandler = logging.FileHandler(fileName)
+    fileHandler.setFormatter(FORMAT)
+    log.addHandler(fileHandler)
+
+def GetLogger(name):
+    return logging.getLogger(name)
 
